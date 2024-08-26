@@ -23,7 +23,7 @@ I am currently delving deeper into Cloud Computing, Python, and AI, technologies
 
 ![wcruz-br's WakaTime](https://github-readme-stats-wcruz-br.vercel.app/api/wakatime?username=wcruz&theme=algolia&hide_border=false&bg_color=70,000000,001020,004070&show_icons=true&layout=compact&custom_title=Coding%20Time%20%28last%207%20days%29)
 <!-- ![wcruz-br's Streak](https://github-readme-streak-stats.herokuapp.com/?user=wcruz-br&theme=algolia&hide_border=false&background=70,000000,001020,004070&fire=2dde98&starting_year=2024&exclude_days=Sat,Sun&excludeDaysLabel=888888) -->
-[![wcruz-br's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wcruz-br&theme=react-dark&height=300)]
+![wcruz-br's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wcruz-br&theme=react-dark&height=300)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=wcruz-br&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=wcruz-br&icon=0&color=0)
