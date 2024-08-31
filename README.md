@@ -43,8 +43,18 @@ I am currently delving deeper into Cloud Computing, Python, and AI, technologies
 ![](https://github-trophies.vercel.app/?username=wcruz-br&theme=algolia&no-frame=false&no-bg=false&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
 
 ## 📊GitHub Stats :
-![wcruz-br's GitHub Stats](https://github-readme-stats-wcruz-br.vercel.app/api?username=wcruz-br&theme=algolia&show_icons=true&hide_border=false&count_private=true&bg_color=70,000000,001020,004070&hide_rank=true&show=prs_merged)
+<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-right: 20px;">
+
+![wcruz-br's GitHub Stats](https://github-readme-stats-wcruz-br.vercel.app/api?username=wcruz-br&theme=algolia&show_icons=true&hide_border=false&count_private=true&bg_color=70,000000,001020,004070&hide_rank=true)
+
+</div>
+<div style="display: flex; align-items: center;">
+
 ![wcruz-br's Top Languages](https://github-readme-stats-wcruz-br.vercel.app/api/top-langs/?username=wcruz-br&theme=algolia&show_icons=true&hide_border=false&bg_color=70,000000,001020,004070&layout=donut)
+
+</div>
+</div>
 
 ![wcruz-br's WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=wcruz&theme=algolia&hide_border=false&bg_color=70,000000,001020,004070,004070&show_icons=true&layout=compact&custom_title=Coding%20Time%20%28last%207%20days%29&display_format=percent)
 <!-- ![wcruz-br's Streak](https://github-readme-streak-stats.herokuapp.com/?user=wcruz-br&theme=algolia&hide_border=false&background=70,000000,001020,004070&fire=2dde98&starting_year=2024&exclude_days=Sat,Sun&excludeDaysLabel=888888) -->
