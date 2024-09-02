@@ -43,7 +43,7 @@ I am currently delving deeper into Cloud Computing, Python, and AI, technologies
 ![](https://github-trophies.vercel.app/?username=wcruz-br&theme=algolia&no-frame=false&no-bg=false&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
 
 ## 📊GitHub Stats :
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; width: 100%">
 <div style="display: flex; align-items: center; margin-right: 20px;">
 
 ![wcruz-br's GitHub Stats](https://github-readme-stats-wcruz-br.vercel.app/api?username=wcruz-br&theme=algolia&show_icons=true&hide_border=false&count_private=true&bg_color=70,000000,001020,004070&hide_rank=true)
