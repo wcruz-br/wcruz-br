@@ -48,7 +48,7 @@ I am currently delving deeper into Cloud Computing, Python, and AI, technologies
 ![wcruz-br's Top Languages](https://github-readme-stats-wcruz-br.vercel.app/api/top-langs/?username=wcruz-br&theme=algolia&show_icons=true&hide_border=false&bg_color=70,000000,001020,004070&layout=donut)
 
 ![wcruz-br's WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=wcruz&theme=algolia&hide_border=false&bg_color=70,000000,001020,004070,004070&show_icons=true&layout=compact&custom_title=Coding%20Time%20%28last%207%20days%29&display_format=percent)
-![wcruz-br's Streak](https://github-readme-streak-stats.herokuapp.com/?user=wcruz-br&theme=algolia&hide_border=false&background=70,000000,001020,004070&fire=2dde98&starting_year=2024&exclude_days=Sat,Sun&excludeDaysLabel=888888)
+![wcruz-br's Streak](https://github-readme-streak-stats.herokuapp.com/?user=wcruz-br&theme=algolia&hide_border=false&background=70,000000,001020,004070&fire=2dde98&starting_year=2024&exclude_days=Sat,Sun&excludeDaysLabel=888888&mode=weekly)
 ![wcruz-br's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wcruz-br&height=300&title_color=00a6f5&bg_color=001020&color=ffffff&line=00a6f5&point=2dde98)
 
 ---
